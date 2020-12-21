@@ -4,7 +4,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    
+
     "my-app": {
       "projectType": "application",
       "schematics": {
@@ -12,6 +12,7 @@
           "strict": true
         }
       },
+      
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
